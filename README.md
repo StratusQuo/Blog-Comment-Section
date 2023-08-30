@@ -1,6 +1,6 @@
 # blog-comment-section
 
-This repository powers the comment section for [my blog](blog.chappell.nyc). I'm using [Giscus](https://github.com/giscus/giscus) to leverage GitHub Discussions as a platform for blog comments. Each discussion corresponds to a blog post and the comments on that issue represent the comments for the post.
+This repository powers the comment section for [my blog](https://blog.chappell.nyc). I'm using [Giscus](https://github.com/giscus/giscus) to leverage GitHub Discussions as a platform for blog comments. Each discussion corresponds to a blog post and the comments on that issue represent the comments for the post.
 
 ## How It Works:
 
